@@ -6,16 +6,18 @@ Il percorso di studi ha previsto la partecipazione a diversi progetti pratici, s
 Segue una breve descrizione dei progetti, con l'obiettivo di fornire una panoramica generale delle competenze pratiche acquisite.
 
 # Data Mining 1:
-**Dataset impiegato**: Ravdess. Contiene un insieme di dati relativi a registrazioni audio all’interno delle quali diversi attori sono stati incaricati di “recitare” determinate proposizioni in contesti emotivi differenti.
+*Dataset impiegato*: Ravdess. Contiene un insieme di dati relativi a registrazioni audio all’interno delle quali diversi attori sono stati incaricati di “recitare” determinate proposizioni in contesti emotivi differenti.
 
-*Obiettivo*: Lo scopo della seguente indagine è quello di analizzare il dataset per riconoscere gli aspetti emotivi del discorso indipendentemente dai contenuti semantici. Il procedimento mostra una iniziale indagine sulle variabili che descrivono il dataset, con una conseguente fase di data preparation dove vengono gestiti missing values, outliers, inconsistenze semantiche e variabili ridondanti. A seguito di queste operazioni iniziali sono state adottate tecniche approfondite di:
+*Obiettivo*: Lo scopo della seguente indagine è quello di analizzare il dataset per riconoscere gli aspetti emotivi del discorso indipendentemente dai contenuti semantici. 
+
+Il procedimento mostra una iniziale indagine sulle variabili che descrivono il dataset, con una conseguente fase di data preparation dove vengono gestiti missing values, outliers, inconsistenze semantiche e variabili ridondanti. A seguito di queste operazioni iniziali sono state adottate tecniche approfondite di:
 -	clustering
 -	classification
 -	pattern mining
 Le suddette pratiche sono state svolte in linguaggio Python, principalmente attraverso le librerie Numpy, Pandas, Matplotlib e Sklearn.
 
-Progetto Data Mining 2: 
-Obiettivo: persegue l’obiettivo di ProgettoDM1 sul medesimo dataset, ma attraverso l’utilizzo di ulteriori tecniche di classificazione avanzata, quali:
+# Data Mining 2: 
+*Obiettivo*: persegue l’obiettivo di ProgettoDM1 sul medesimo dataset, ma attraverso l’utilizzo di ulteriori tecniche di classificazione avanzata, quali:
 -	Logistic Regression
 -	Support Vector Machine
 -	Ensemble Methods (Random Forest, Bagging&Boosting)
