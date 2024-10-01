@@ -59,4 +59,5 @@ Per questo progetto è possibile consultare le slide riassuntive di presentazion
 Costruzione e popolamento di un cubo OLAP utilizzando SSIS, con interrogazioni MDX.
 
 Visualizzazione dei dati attraverso dashboard interattive in Power BI.
+
 ![image](https://github.com/user-attachments/assets/8095e161-1da5-4410-b547-3efca7bd9e8a)
