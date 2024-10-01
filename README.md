@@ -1,6 +1,6 @@
 # Data-Science-and-Business-Informatics-Projects
 
-BREVE DESCRIZIONE DEI PROGETTI SVOLTI
+# BREVE DESCRIZIONE DEI PROGETTI SVOLTI
 
 Il percorso di studi ha previsto la partecipazione a diversi progetti pratici, svolti in gruppo, sviluppando competenze di collaborazione e problem-solving. Questi progetti sono stati focalizzati sull'applicazione concreta delle conoscenze teoriche apprese durante i relativi corsi.
 Segue una breve descrizione dei progetti, con l'obiettivo di fornire una panoramica generale delle competenze pratiche acquisite.
