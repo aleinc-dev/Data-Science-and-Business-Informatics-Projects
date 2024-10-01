@@ -1,0 +1,2 @@
+Implementation of a CC model and a MLP. K-fold (5 folds) assessment with internal hold out chose for each fold a MLP model (4 unique models).
+All of them are taken as ensemble and retrained on the whole dataset to produce the final model.

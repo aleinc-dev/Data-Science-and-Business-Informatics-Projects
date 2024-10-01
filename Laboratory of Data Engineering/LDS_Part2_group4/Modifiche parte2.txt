@@ -1,0 +1,2 @@
+Sono state apportate piccole modifiche come il cambio di nome per alcuni nodi e aggiunta dei
+nomi per i percorsi sdoppiati o uniti.  

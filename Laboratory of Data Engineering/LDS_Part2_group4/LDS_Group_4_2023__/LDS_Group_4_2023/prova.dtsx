@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="12/28/2023 5:42:04 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="NOTACER"
+  DTS:CreatorName="NOTACER\Utente"
+  DTS:DTSID="{1483A3A5-E5F2-45DF-9AC3-A16BD215C06F}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5314.0"
+  DTS:LocaleID="1040"
+  DTS:ObjectName="Package1"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{53BBCB53-D88B-4FFA-B990-F9EFF40A22A2}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>

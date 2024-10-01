@@ -1,0 +1,52 @@
+state_name,stolen_gravity_idx
+Alabama,0,81929123
+Alaska,0,79887086
+Arizona,0,80662018
+Arkansas,0,80417538
+California,0,82065761
+Colorado,0,82360876
+Connecticut,0,80012077
+Delaware,0,83605444
+District of Columbia,0,78640777
+Florida,0,81240296
+Georgia,0,80640292
+Hawaii,0,81818181
+Idaho,0,82056254
+Illinois,0,8096441
+Indiana,0,82721233
+Iowa,0,81558442
+Kansas,0,82508248
+Kentucky,0,79901451
+Louisiana,0,80948758
+Maine,0,78454107
+Maryland,0,80767691
+Massachusetts,0,80923313
+Michigan,0,81888723
+Minnesota,0,81119502
+Mississippi,0,79507649
+Missouri,0,78768665
+Montana,0,80446929
+Nebraska,0,83825946
+Nevada,0,81205446
+New Hampshire,0,78686965
+New Jersey,0,8320598
+New Mexico,0,81763285
+New York,0,80429125
+North Carolina,0,80551702
+North Dakota,0,83552629
+Ohio,0,80837536
+Oklahoma,0,80713874
+Oregon,0,8267743
+Pennsylvania,0,80189657
+Rhode Island,0,82358676
+South Carolina,0,80000001
+South Dakota,0,83038348
+Tennessee,0,8163228
+Texas,0,81165117
+Utah,0,82267636
+Vermont,0,81924886
+Virginia,0,82381731
+Washington,0,81387949
+West Virginia,0,82918847
+Wisconsin,0,81964767
+Wyoming,0,89655173

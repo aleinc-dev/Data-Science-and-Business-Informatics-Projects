@@ -1,0 +1,5 @@
+Modifche effettuate sul codice:
+-aggiunta di funzioni
+-ottimizzazione
+-revisione e completamento dei commenti
+-aggiunta della parte finale (codice necessario per stabilire la connessione e popolare il Database).

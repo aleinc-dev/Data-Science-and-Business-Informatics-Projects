@@ -1,0 +1,32 @@
+-- Show the total crime gravity for each city and the grand total with respect to the state.
+
+WITH member Crime_Gravity_State as 
+([Geography].[CityState].currentmember.parent, [Measures].[Crime Gravity])
+SELECT
+  {[Measures].[Crime Gravity], Crime_Gravity_State} ON COLUMNS,
+  [Geography].[CityState].[City] ON ROWS
+FROM [Group ID 4]
+
+
+-- Show the percentage increase or decrease in total crime gravity answers with respect
+-- to the previous year for each age group.
+
+WITH MEMBER difference AS
+([Measures].[Crime Gravity] - ([Date].[DayMonthYear].prevmember, [Measures].[Crime Gravity]))/([Date].[DayMonthYear].prevmember, [Measures].[Crime Gravity]),
+format_string="percent"
+
+SELECT
+difference on columns,
+([Participant].[partecipant_h].[Participant Age Group],[Date].[DayMonthYear].[Year]) on rows
+FROM [Group ID 4]
+
+-- Show the ratio between the total crime gravity of each year w.r.t the previous year.
+
+WITH member percentage_diff as 
+[Measures].[Crime Gravity] / ([Date].[DayMonthYear].prevmember, [Measures].[Crime Gravity]),
+format_string="percent" 
+
+SELECT 
+percentage_diff on columns,
+[Date].[DayMonthYear].[Year] on rows
+FROM[Group ID 4]
