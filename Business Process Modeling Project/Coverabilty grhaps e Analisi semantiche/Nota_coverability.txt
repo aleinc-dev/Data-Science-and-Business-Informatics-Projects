@@ -1,0 +1,1 @@
+Come scritto nel report, i coverability graphs del flow completo e del flow completo con variante non sono presenti in quanto Woped non era in grado di esportare il file .png e non vi era modo di effettuare uno screen intero.
