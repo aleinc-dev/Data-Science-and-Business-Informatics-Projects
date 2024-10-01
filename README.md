@@ -37,20 +37,26 @@ Facendo poi riferimento alle registrazioni audio (e non solo alle misure aggrega
 
 *Software utilizzati*: Bpmn-js, Woflan, Woped.
 
-Progetto Statistics for Data Science
-Obiettivo: Analisi approfondita di un articolo scientifico che dimostra l’equivalenza analitica di tre metodi (Geometrico, Wilcoxon Rank-Sum Statistic e Adjusted Percent of Concordant Pairs) per il calcolo dell'Area Under the Curve (AUC), utilizzata per valutare la performance di un modello di classificazione. Successivamente, implementazione dell’analisi in linguaggio R per confermare i risultati presentati nell'articolo oppure, qualora necessario, sollevare eventuali dubbi sulla correttezza dei metodi, supportati da argomentazioni matematiche.
-Software utilizzati: RStudio, PowerPoint.
+# Statistics for Data Science
+*Obiettivo*: Analisi approfondita di un articolo scientifico che dimostra l’equivalenza analitica di tre metodi (Geometrico, Wilcoxon Rank-Sum Statistic e Adjusted Percent of Concordant Pairs) per il calcolo dell'Area Under the Curve (AUC), utilizzata per valutare la performance di un modello di classificazione. Successivamente, implementazione dell’analisi in linguaggio R per confermare i risultati presentati nell'articolo oppure, qualora necessario, sollevare eventuali dubbi sulla correttezza dei metodi, supportati da argomentazioni matematiche.
 
-Progetto Algorithms and Data Structures for Data Science
-Obiettivo: Sviluppo di notebook in linguaggio Python per risolvere problemi complessi, con particolare attenzione alla minimizzazione della complessità temporale (notazione asintotica). Il progetto ha comportato sia la creazione di algoritmi originali quando necessario, sia l'ottimizzazione di algoritmi esistenti, per garantire soluzioni computazionalmente efficienti. Inoltre, in diversi casi è stato necessario manipolare strutture dati come Hash Tables, Heap e Binary Search Trees.
-Software utilizzati: Jupyter.
+*Software utilizzati*: RStudio, PowerPoint.
+
+# Algorithms and Data Structures for Data Science
+*Obiettivo*: Sviluppo di notebook in linguaggio Python per risolvere problemi complessi, con particolare attenzione alla minimizzazione della complessità temporale (notazione asintotica).
+
+Il progetto ha comportato sia la creazione di algoritmi originali quando necessario, sia l'ottimizzazione di algoritmi esistenti, per garantire soluzioni computazionalmente efficienti. Inoltre, in diversi casi è stato necessario manipolare strutture dati come Hash Tables, Heap e Binary Search Trees.
+
+*Software utilizzati*: Jupyter.
 
 
-Progetto Machine Learning
+# Machine Learning
 Per questo progetto è possibile consultare le slide riassuntive di presentazione collocate all’interno della cartella relativa al progetto stesso.
 
-Progetto Laboratorio di Data Engineering
-Implementazione del processo ETL da fonti di dati eterogenee (CSV, JSON, XML). Creazione di un database e caricamento dei dati tramite SQL Server Management Studio. Sviluppo di query SQL complesse per l'analisi dei dati.
+# Laboratorio di Data Engineering
+*Obiettivo*: Implementazione del processo ETL da fonti di dati eterogenee (CSV, JSON, XML). Creazione di un database e caricamento dei dati tramite SQL Server Management Studio. Sviluppo di query SQL complesse per l'analisi dei dati.
+
 Costruzione e popolamento di un cubo OLAP utilizzando SSIS, con interrogazioni MDX.
+
 Visualizzazione dei dati attraverso dashboard interattive in Power BI.
 ![image](https://github.com/user-attachments/assets/8095e161-1da5-4410-b547-3efca7bd9e8a)
