@@ -3,7 +3,10 @@
 # BREVE DESCRIZIONE DEI PROGETTI SVOLTI
 
 Il percorso di studi ha previsto la partecipazione a diversi progetti pratici, svolti in gruppo, sviluppando competenze di collaborazione e problem-solving. Questi progetti sono stati focalizzati sull'applicazione concreta delle conoscenze teoriche apprese durante i relativi corsi.
+
 Segue una breve descrizione dei progetti, con l'obiettivo di fornire una panoramica generale delle competenze pratiche acquisite.
+
+Per ulteriori dettagli, è possibile consultare la documentazione attinente al progetto di interesse all'interno della relativa cartella.
 
 # Data Mining 1
 *Dataset impiegato*: Ravdess. Contiene un insieme di dati relativi a registrazioni audio all’interno delle quali diversi attori sono stati incaricati di “recitare” determinate proposizioni in contesti emotivi differenti.
