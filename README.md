@@ -6,7 +6,7 @@ Il percorso di studi ha previsto la partecipazione a diversi progetti pratici, s
 Segue una breve descrizione dei progetti, con l'obiettivo di fornire una panoramica generale delle competenze pratiche acquisite.
 
 # Data Mining 1:
-*Dataset impiegato*: Ravdess. Contiene un insieme di dati relativi a registrazioni audio all’interno delle quali diversi attori sono stati incaricati di “recitare” determinate proposizioni in contesti emotivi differenti.
+**Dataset impiegato**: Ravdess. Contiene un insieme di dati relativi a registrazioni audio all’interno delle quali diversi attori sono stati incaricati di “recitare” determinate proposizioni in contesti emotivi differenti.
 
 *Obiettivo*: Lo scopo della seguente indagine è quello di analizzare il dataset per riconoscere gli aspetti emotivi del discorso indipendentemente dai contenuti semantici. Il procedimento mostra una iniziale indagine sulle variabili che descrivono il dataset, con una conseguente fase di data preparation dove vengono gestiti missing values, outliers, inconsistenze semantiche e variabili ridondanti. A seguito di queste operazioni iniziali sono state adottate tecniche approfondite di:
 -	clustering
