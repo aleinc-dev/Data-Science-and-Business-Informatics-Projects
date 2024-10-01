@@ -23,6 +23,7 @@ Il procedimento mostra una iniziale indagine sulle variabili che descrivono il d
 -	Ensemble Methods (Random Forest, Bagging&Boosting)
 -	Neural Networks
 -	Gradient Boosting (XGBoost, LGBMClassifier)
+
 E tecniche di regressione multivariata non lineare, quali:
 -	SVR
 -	GradientBoostingRegressor
@@ -32,7 +33,8 @@ Facendo poi riferimento alle registrazioni audio (e non solo alle misure aggrega
 -	Classification (KNN, Shapelets, Rocket e MiniRocket)
 
 # Business Process Modeling
-*Obiettivo*: Analisi e modellazione di un processo organizzativo tramite Business Process Modeling Notation (BPMN). Il modello è stato successivamente convertito in WorkFlow Net (Petri Net) e sottoposto a verifica di Soundness e altre proprietà, al fine di garantirne la correttezza. 
+*Obiettivo*: Analisi e modellazione di un processo organizzativo tramite Business Process Modeling Notation (BPMN). Il modello è stato successivamente convertito in WorkFlow Net (Petri Net) e sottoposto a verifica di Soundness e altre proprietà, al fine di garantirne la correttezza.
+
 *Software utilizzati*: Bpmn-js, Woflan, Woped.
 
 Progetto Statistics for Data Science
